@@ -1,0 +1,2 @@
+# Html-index-
+&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;title>Farah Umer - Portfolio&lt;/title> &lt;/head> &lt;body> &lt;h1>Farah Umer&lt;/h1> &lt;h3>&lt;i>Developer / Learner&lt;/i>&lt;/h3> &lt;hr> &lt;h2>About Me&lt;/h2> &lt;p>hi 👋 my name is &lt;b>Farah Umer&lt;/b>. I am learning &lt;b>HTML, CSS, JavaScript&lt;/b>&lt;/p> &lt;hr> &lt;h2>My Favorite Hobbies&lt;/h2> &lt;p>My favorite hobby is to read poems.&lt;/p> &lt;/body> &lt;/html>
