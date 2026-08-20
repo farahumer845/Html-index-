@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Farah Umer - Portfolio</title>
+</head>
+<body>
+<h1>Farah Umer</h1>
+<h3><i>Developer / Learner</i></h3>
+<hr>
+<h2>About Me</h2>
+<p>hi 👋 my name is <b>Farah Umer</b>. I am learning <b>HTML, CSS, JavaScript</b></p>
+<hr>
+<h2>My Favorite Hobbies</h2>
+<p>My favorite hobby is to read poems.</p>
+</body>
+</html>
